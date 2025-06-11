@@ -1,10 +1,10 @@
-# Clinical Note Anonymizer
+# PHIdelity
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
 
-The **Clinical Note Anonymizer** is a Python tool that intelligently anonymizes Protected Health Information (PHI) in clinical notes while preserving their contextual meaning. Unlike basic redaction methods that obscure data, this tool uses a local Large Language Model (LLM) via Ollama to identify PHI (e.g., names, dates, medical record numbers) and replace it with meaningful, generalized descriptions (e.g., `[Patient Name]`, `[Date of Visit]`). This contextualized anonymization ensures the anonymized notes remain useful for research, analysis, or sharing while complying with privacy regulations like HIPAA.
+The **PHIdelity** is a Python tool that intelligently anonymizes Protected Health Information (PHI) in clinical notes while preserving their contextual meaning. Unlike basic redaction methods that obscure data, this tool uses a local Large Language Model (LLM) via Ollama to identify PHI (e.g., names, dates, medical record numbers) and replace it with meaningful, generalized descriptions (e.g., `[Patient Name]`, `[Date of Visit]`). This contextualized anonymization ensures the anonymized notes remain useful for research, analysis, or sharing while complying with privacy regulations like HIPAA.
 
 The tool extracts PHI into a structured CSV file and saves the anonymized note as a text file, making it ideal for healthcare professionals, researchers, and developers handling sensitive medical data.
 
