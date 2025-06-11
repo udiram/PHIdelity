@@ -1,0 +1,34 @@
+
+Radiation Oncology Clinical Note
+Date of Visit: [Date of Visit]
+Patient Information
+
+Name: [Patient Name]  
+Age: [Patient Age]  
+Medical Record Number: [Medical Record Number]
+
+Reason for Visit
+
+Follow-up after completing radiation therapy for prostate cancer
+
+Medical History
+
+Diagnosed with prostate cancer (stage T2c, Gleason 7) two years ago  
+Underwent radical prostatectomy  
+Received adjuvant radiation therapy (66 Gy in 33 fractions) completed six months ago  
+Pre-treatment PSA: 12 ng/mL  
+Post-prostatectomy PSA: 0.2 ng/mL  
+Post-radiation PSA: undetectable
+
+Physical Examination
+
+Vital Signs: BP 120/80 mmHg, HR 70 bpm, RR 16 breaths/min, Temp 98.6°F  
+General Appearance: Well-nourished, no distress  
+Findings: No lymphadenopathy; no radiation dermatitis or other skin changes; no complaints of urinary or bowel symptoms
+
+Assessment and Plan
+
+Assessment: [Patient Name] is a 65-year-old male with a history of prostate cancer, status post radical prostatectomy and adjuvant radiation therapy. Currently doing well, with no evidence of disease recurrence. PSA remains undetectable. No significant treatment-related side effects.  
+Plan: Continue with regular follow-up visits every six months, with PSA testing at each visit. Next visit scheduled for [Next Visit Date].
+
+Physician: [Attending Physician Name], MD
