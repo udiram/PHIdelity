@@ -154,7 +154,7 @@ If you encounter issues:
 
 ## License
 
-PHIdelity is licensed under the [MIT License](LICENSE). See the `LICENSE` file for details.
+PHIdelity is licensed under the [GNU GPL](LICENSE). See the `LICENSE` file for details.
 
 ## Acknowledgments
 
