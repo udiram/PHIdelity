@@ -4,7 +4,7 @@ Date of Visit: [Date of Visit]
 Patient Information
 
 Name: [Patient Name]  
-Age: [Patient Age]  
+Age: 65 years old  
 Medical Record Number: [Medical Record Number]
 
 Reason for Visit
@@ -31,4 +31,4 @@ Assessment and Plan
 Assessment: [Patient Name] is a 65-year-old male with a history of prostate cancer, status post radical prostatectomy and adjuvant radiation therapy. Currently doing well, with no evidence of disease recurrence. PSA remains undetectable. No significant treatment-related side effects.  
 Plan: Continue with regular follow-up visits every six months, with PSA testing at each visit. Next visit scheduled for [Next Visit Date].
 
-Physician: [Attending Physician Name], MD
+Physician: [Attending Physician Name]

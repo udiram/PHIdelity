@@ -1,8 +1,7 @@
 ID,type,value,description
 redacted_date_001,Date,"June 11, 2025",Date of Visit
 redacted_name_001,Name,John Doe,Patient Name
-redacted_age_001,Age,65 years old,Patient Age
+redacted_name_002,Name,Mr. Doe,Patient Name
 redacted_medical_record_number_001,Medical Record Number,123456,Medical Record Number
 redacted_date_002,Date,"December 11, 2025",Next Visit Date
-redacted_name_002,Name,Mr. Doe,Patient Name
-redacted_name_003,Name,Dr. Jane Smith,Attending Physician Name
+redacted_name_003,Name,"Dr. Jane Smith, MD",Attending Physician Name
