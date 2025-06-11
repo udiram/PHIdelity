@@ -163,7 +163,7 @@ PHIdelity is licensed under the [MIT License](LICENSE). See the `LICENSE` file f
 
 ## Contact
 
-For questions or collaboration, use [GitHub Issues](https://github.com/your-username/phidelity/issues) or reach out at (add your email if desired).
+For questions or collaboration, use [GitHub Issues](https://github.com/your-username/phidelity/issues) or reach out at udbhavram41@gmail.com!
 
 ---
 
