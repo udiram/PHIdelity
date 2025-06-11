@@ -1,0 +1,12 @@
+ID,type,value,description,person_id
+redacted_name_001,Name,John Doe,Patient's Full Name,person_001
+redacted_name_002,Name,Mr. Doe,Patient's Full Name,person_001
+redacted_name_003,Name,John,Patient's First Name,person_001
+redacted_name_004,Name,Dr. Kole,Attending Physician,person_002
+redacted_name_005,Name,Dr. Hoyle,Follow-up Physician,person_003
+redacted_date_001,Date,2023-01-01,Admission Date,
+redacted_date_002,Date,06/10/2025,Date of Visit with Attending Physician,
+redacted_date_003,Date,06/12/2025,Follow-up Appointment Date with Follow-up Physician,
+redacted_address_001,Address,"123 Main St, Anytown, USA",Patient's Home Address,
+redacted_phone_number_001,Phone Number,555-123-4567,Patient's Phone Number,
+redacted_email_address_001,Email Address,johndoe@example.com,Patient's Email Address,
